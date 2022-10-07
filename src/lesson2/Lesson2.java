@@ -14,7 +14,9 @@ public class Lesson2 {
         // тернарный оператор
         // выражение х = выражение ? выражение1 : выражение2
         int star = 3, end = 100;
+
         int rest = star > end ? 0 : star; //false 3
+
 
 
         double sum = 12314;
